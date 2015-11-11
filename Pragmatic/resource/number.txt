@@ -1,0 +1,2 @@
+Test number 1 whith java 7+
+Test number 2 whith java 8

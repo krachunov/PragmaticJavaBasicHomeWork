@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="HomeWork4.part2_Animals.Domain" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Domain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="122" x="514" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="HomeWork4.part2_Animals.Penguin" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Penguin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="846" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="HomeWork4.part2_Animals.Rreptiles" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Rreptiles.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="122" x="126" y="236"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="HomeWork4.part2_Animals.Celled" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Celled.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="122" x="352" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="HomeWork4.part2_Animals.FlyFish" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/FlyFish.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="1206" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="HomeWork4.part2_Animals.People" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/People.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="140" x="306" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="HomeWork4.part2_Animals.Dolphins" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Dolphins.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="140" x="486" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="HomeWork4.part2_Animals.Vertebrate" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Vertebrate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="141" x="676" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="HomeWork4.part2_Animals.Dragon" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="-234" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="HomeWork4.part2_Animals.Mammals" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Mammals.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="122" x="534" y="236"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="HomeWork4.part2_Animals.Crocodile" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Crocodile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="-54" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="HomeWork4.part2_Animals.Catfish" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Catfish.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="1386" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="HomeWork4.part2_Animals.Bat" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Bat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="140" x="666" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="HomeWork4.part2_Animals.MulticellularAnimals" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/MulticellularAnimals.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="141" x="676" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="HomeWork4.part2_Animals.Birds" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Birds.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="122" x="846" y="236"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="HomeWork4.part2_Animals.Eagle" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Eagle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="140" x="1026" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="HomeWork4.part2_Animals.TestDemo" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/TestDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="122" x="514" y="-78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="HomeWork4.part2_Animals.Snake" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Snake.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="140" x="126" y="393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="HomeWork4.part2_Animals.Amoeba" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Amoeba.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="122" x="190" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="HomeWork4.part2_Animals.Fish" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Fish.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="122" x="1206" y="236"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="HomeWork4.part2_Animals.Paramecium" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part2_Animals/Paramecium.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="122" x="352" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="HomeWork4.part3_Zoo.Zoo" project="Pragmatic" 
+    file="/Pragmatic/src/HomeWork4/part3_Zoo/Zoo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="219" x="-277" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="35">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
